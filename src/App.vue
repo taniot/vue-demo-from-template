@@ -1,6 +1,5 @@
 <!-- <script></script> -->
 <template>
-  <h1>Vue Vite Template</h1>
-  <p>Template di partenza per progetti Vite Vue</p>
+  <h1>Demo from Vue Template</h1>
 </template>
 <!-- <style></style> -->
