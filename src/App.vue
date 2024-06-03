@@ -17,6 +17,6 @@ export default {
   <h1>Demo from Vue Template</h1>
   <p>Testo di demo per font</p>
 
-  <ChildComponent :pippo="text" demo="testo qui dichiarato" />
+  <ChildComponent />
 </template>
 <!-- <style></style> -->
